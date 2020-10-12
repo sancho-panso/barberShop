@@ -1,0 +1,9 @@
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.csprojAssemblyReference.cache
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.AssemblyInfoInputs.cache
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.AssemblyInfo.cs
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.csproj.CoreCompileInputs.cache
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.TagHelpers.input.cache
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.TagHelpers.output.cache
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.dll
+C:\Users\Michail\Source\Repos\sancho-panso\barberShop\barberShopProject20201006\obj\Debug\netcoreapp3.1\barberShopProject20201006.pdb

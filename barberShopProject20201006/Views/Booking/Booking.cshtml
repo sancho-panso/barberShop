@@ -1,4 +1,4 @@
-﻿@model  List<Booking>
+﻿@model List<Booking>
 @{
     ViewData["Title"] = "Booking";
 }
@@ -26,7 +26,7 @@
                 <td>@item.Barber.Name</td>
                 <td>@item.Status.ToString()</td>
                 <td>@item.Time.ToString()</td>
-                <td><a href="#">book</a></td>
+                <td><a asp-controller="Booking" asp-action="Book" asp-route-id="@item.Id">Details</a></td>
             </tr>
         }
     </tbody>

@@ -1,0 +1,24 @@
+﻿@{
+    Layout = null;
+}
+
+
+
+@model List<Booking>
+@{
+    ViewData["Title"] = "Booking Details";
+}
+
+<p>Client's details</p>
+
+@foreach (Booking item in Model)
+{
+    if (item.Id == ViewBag.BookingID)
+    {
+        <p>Client's Name: @item.Client.Name @item.Client.Surname</p>
+        <p>Client's Phone Number: @item.Client.Phone</p>
+    }
+}
+
+<a asp-controller="Booking" asp-action="Booking">Back to Booking's list</a>
+

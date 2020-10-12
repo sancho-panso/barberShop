@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moksleivis\\source\\repos\\barberShopProject20201006\\barberShopProject20201006\\barberShopProject20201006.csproj": {}
+    "C:\\Users\\Michail\\Source\\Repos\\sancho-panso\\barberShop\\barberShopProject20201006\\barberShopProject20201006.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moksleivis\\source\\repos\\barberShopProject20201006\\barberShopProject20201006\\barberShopProject20201006.csproj": {
+    "C:\\Users\\Michail\\Source\\Repos\\sancho-panso\\barberShop\\barberShopProject20201006\\barberShopProject20201006.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moksleivis\\source\\repos\\barberShopProject20201006\\barberShopProject20201006\\barberShopProject20201006.csproj",
+        "projectUniqueName": "C:\\Users\\Michail\\Source\\Repos\\sancho-panso\\barberShop\\barberShopProject20201006\\barberShopProject20201006.csproj",
         "projectName": "barberShopProject20201006",
-        "projectPath": "C:\\Users\\moksleivis\\source\\repos\\barberShopProject20201006\\barberShopProject20201006\\barberShopProject20201006.csproj",
-        "packagesPath": "C:\\Users\\moksleivis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moksleivis\\source\\repos\\barberShopProject20201006\\barberShopProject20201006\\obj\\",
+        "projectPath": "C:\\Users\\Michail\\Source\\Repos\\sancho-panso\\barberShop\\barberShopProject20201006\\barberShopProject20201006.csproj",
+        "packagesPath": "C:\\Users\\Michail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michail\\Source\\Repos\\sancho-panso\\barberShop\\barberShopProject20201006\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\moksleivis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Michail\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,17 +54,19 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[2.1.10, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
